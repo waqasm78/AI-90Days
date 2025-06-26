@@ -118,6 +118,8 @@ If this step is skipped, launching Jupyter may result in:
 PermissionError: [Errno 13] Permission denied: 'C:\Users\<username>\AppData\Roaming\jupyter\runtime\...'
 ```
 
+✅ **Always run Jupyter after setting this variable to avoid issues**.
+
 ---
 
 ## 📁 Set Up Folder Structure
@@ -171,6 +173,20 @@ print("Hello, AI World! This is Day 1.")
 * Click `File > Save and Checkpoint`
 
 Your notebook will now be saved inside `Day1_Setup`.
+
+### 📂 What is `.ipynb_checkpoints`?
+
+When you save a notebook, Jupyter creates a hidden folder named `.ipynb_checkpoints` in the same directory.
+
+It contains backup versions of your notebooks (like `hello_day1-checkpoint.ipynb`) so that you can recover your work if something goes wrong.
+
+📌 To ignore these from version control, add the following line to a `.gitignore` file in the root of your project:
+
+```
+.ipynb_checkpoints/
+```
+
+You can create this file using Notepad or any text editor.
 
 ---
 
