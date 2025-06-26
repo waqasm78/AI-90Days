@@ -36,15 +36,15 @@ AI-90Days/
 
 Each link below takes you to the detailed tutorial and instructions for that day.
 
-| Day | Topic                                | Link                  |
-| --- | ------------------------------------ | --------------------- |
-| 1   | Tools Setup + Git + Jupyter Intro    | [Day 1](docs/Day1.md) |
-| 2   | Python Basics                        | [Day 2](docs/Day2.md) |
-| 3   | Python Data Types & Logic            | Coming Soon           |
-| 4   | Functions, Loops & Conditions        | Coming Soon           |
-| 5   | Git & GitHub – Version Control       | Coming Soon           |
-| ... | ...                                  | ...                   |
-| 90  | Final Project & Portfolio Deployment | Coming Soon           |
+| Day | Topic                                           | Link                  |
+| --- | ----------------------------------------------- | --------------------- |
+| 1   | Tools Setup + Git + Jupyter Intro               | [Day 1](docs/Day1.md) |
+| 2   | Python Basics                                   | [Day 2](docs/Day2.md) |
+| 3   | Collections: Lists, Tuples, Sets & Dictionaries | [Day 3](docs/Day3.md) |
+| 4   | Functions, Loops & Conditions                   | Coming Soon           |
+| 5   | Git & GitHub – Version Control                  | Coming Soon           |
+| ... | ...                                             | ...                   |
+| 90  | Final Project & Portfolio Deployment            | Coming Soon           |
 
 > ✅ Links will be updated here each day as you progress.
 
