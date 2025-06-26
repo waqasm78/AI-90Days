@@ -231,6 +231,13 @@ Explanation:
 
 ---
 
+## 📓 Related Notebook
+
+You can view and explore all examples and exercises interactively in this notebook:
+👉 **[Open day2\_basics.ipynb](../Day2_PythonBasics/day2_basics.ipynb)**
+
+---
+
 ## 🧠 Summary
 
 Today you learned:
