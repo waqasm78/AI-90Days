@@ -1,4 +1,4 @@
-# AI in 90 Days – Daily Learning Journey 🗕️
+# AI in 90 Days – Daily Learning Journey
 
 This folder contains structured daily tutorials, exercises, and projects for learning Artificial Intelligence from scratch to production-level projects using Python, Jupyter Notebooks, and Visual Studio 2022.
 
