@@ -15,6 +15,7 @@ Welcome to Day 1 of your AI journey! Today’s goal is to:
 * Install Jupyter
 * Set up a clean folder structure
 * Launch your first notebook using the correct working directory
+* Understand why Jupyter is used instead of a regular IDE
 
 ---
 
@@ -51,6 +52,26 @@ During installation:
 * Full IDE experience with IntelliSense, debugging, and project templates
 * Jupyter notebook support inside the IDE
 * Familiar environment for .NET/C++ developers
+
+---
+
+## 🤔 Why Use Jupyter Notebook Instead of Just Visual Studio?
+
+Jupyter Notebooks are purpose-built for:
+
+✅ **Exploratory data analysis** — write and run code in small, testable cells.
+
+✅ **Visualization** — see charts, graphs, and output inline.
+
+✅ **Narration** — mix code, formulas (LaTeX), and markdown explanations in one place.
+
+✅ **Rapid prototyping** — perfect for testing ML algorithms and data transformation step-by-step.
+
+✅ **Educational purposes** — great for tutorials, walk-throughs, and documenting thought processes.
+
+Visual Studio is ideal for building larger apps and organizing code into structured modules. But for AI/ML workflows, **Jupyter gives you an interactive playground** that's hard to beat.
+
+You can use **both together** — code in notebooks to experiment, then convert to `.py` scripts or projects in Visual Studio when scaling up.
 
 ---
 
@@ -180,10 +201,13 @@ When you save a notebook, Jupyter creates a hidden folder named `.ipynb_checkpoi
 
 It contains backup versions of your notebooks (like `hello_day1-checkpoint.ipynb`) so that you can recover your work if something goes wrong.
 
-📌 To ignore these from version control, add the following line to a `.gitignore` file in the root of your project:
+📌 To ignore these from version control, add the following lines to a `.gitignore` file in the root of your project:
 
 ```
 .ipynb_checkpoints/
+jupyter_runtime/
+__pycache__/
+*.pyc
 ```
 
 You can create this file using Notepad or any text editor.
@@ -197,6 +221,7 @@ Today you:
 * Installed Python and Visual Studio 2022
 * Created your virtual environment
 * Installed and fixed Jupyter Notebook permissions
+* Learned why Jupyter is preferred for AI/ML prototyping
 * Launched your first notebook from the correct folder
 * Created and saved your first `.ipynb` file 🎉
 
