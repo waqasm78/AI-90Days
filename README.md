@@ -10,7 +10,7 @@ This repository will guide you through all the necessary tools, programming conc
 * ✅ Real-world mini projects
 * ☁️ Deployment, GitHub versioning, and portfolio building
 
-> 💡 All daily lessons are kept in the [`docs/`](docs/) folder for easy access.
+> 💡 All daily lessons are kept in the [`docs/`](docs/README.md) folder for easy access.
 
 ---
 
