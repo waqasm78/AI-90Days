@@ -18,7 +18,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day    | Topic                                      | Notes                   |
 | ------ | ------------------------------------------ | ----------------------- |
 | Day 1  | Environment Setup & First Jupyter Notebook | [View Notes](./Day1.md) |
-| Day 2  | Python Basics                              | *Coming soon*           |
+| Day 2  | Python Basics                              | [View Notes](./Day2.md) |
 | Day 3  | Data Types & Control Structures            | *Coming soon*           |
 | Day 4  | Functions, Modules, and Packages           | *Coming soon*           |
 | Day 5  | NumPy Introduction                         | *Coming soon*           |

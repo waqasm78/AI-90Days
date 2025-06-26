@@ -39,7 +39,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | Day | Topic                                | Link                  |
 | --- | ------------------------------------ | --------------------- |
 | 1   | Tools Setup + Git + Jupyter Intro    | [Day 1](docs/Day1.md) |
-| 2   | Python Basics                        | Coming Soon           |
+| 2   | Python Basics                        | [Day 2](docs/Day2.md) |
 | 3   | Python Data Types & Logic            | Coming Soon           |
 | 4   | Functions, Loops & Conditions        | Coming Soon           |
 | 5   | Git & GitHub – Version Control       | Coming Soon           |
