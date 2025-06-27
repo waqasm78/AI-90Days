@@ -20,7 +20,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 1  | Environment Setup & First Jupyter Notebook          | [View Notes](./Day1.md) |
 | Day 2  | Python Basics                                       | [View Notes](./Day2.md) |
 | Day 3  | Collections: Lists, Tuples, Sets & Dictionaries     | [View Notes](./Day3.md) |
-| Day 4  | Functions, Modules, and Packages                    | *Coming soon*           |
+| Day 4  | Control Flow: If, For, While, and Logic             | [View Notes](./Day4.md) |
 | Day 5  | NumPy Introduction                                  | *Coming soon*           |
 | ...    | ...                                                 | ...                     |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*           |
