@@ -42,7 +42,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 2   | Python Basics                                   | [Day 2](docs/Day2.md) |
 | 3   | Collections: Lists, Tuples, Sets & Dictionaries | [Day 3](docs/Day3.md) |
 | 4   | Control Flow: If, For, While, and Logic         | [Day 4](docs/Day4.md) |
-| 5   | Git & GitHub – Version Control                  | Coming Soon           |
+| 5   | Functions                                       | [Day 5](docs/Day5.md) |
 | ... | ...                                             | ...                   |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon           |
 
