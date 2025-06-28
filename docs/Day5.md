@@ -72,6 +72,9 @@ You can use the `return` keyword to send back a result from a function.
 ```python
 def square(x):
     return x * x
+
+result = square(5)
+print("Square of 5 is:", result)
 ```
 
 Returning values is key when building pipelines in AI — you pass data from one function to another for transformation.
@@ -159,16 +162,46 @@ This function scales values to a 0–1 range, a common preprocessing step in ML 
 Create a function to check whether a number is prime.
 ```python
 def is_prime(n):
-    # logic to check prime
+    if n <= 1:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+print("Is 17 prime?", is_prime(17))
+print("Is 10 prime?", is_prime(10))
 ```
 
 ### 2. Factorial Function
 
 Write a function that returns the factorial of a number using a loop.
 
+```python
+def factorial(n):
+    result = 1
+    for i in range(1, n + 1):
+        result *= i
+    return result
+
+print("Factorial of 5:", factorial(5))
+```
+
 ### 3. Vowel Counter
 
 Write a function that counts how many vowels are in a given string.
+
+```python
+def count_vowels(text):
+    vowels = "aeiouAEIOU"
+    count = 0
+    for char in text:
+        if char in vowels:
+            count += 1
+    return count
+
+print("Number of vowels:", count_vowels("Artificial Intelligence"))
+```
 
 These are great mini-problems to sharpen your function skills.
 
