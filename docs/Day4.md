@@ -227,7 +227,7 @@ These simple exercises build a strong foundation for logic-based AI operations.
 
 ## 📓 Related Notebook
 
-👉 [Open day4\_control\_flow.ipynb](../Day4_ControlFlow/day4_control_flow.ipynb) to view all examples and test them interactively.
+👉 Open [day4\_control\_flow.ipynb](../Day4_ControlFlow/day4_control_flow.ipynb) to view all examples and test them interactively.
 
 ---
 
