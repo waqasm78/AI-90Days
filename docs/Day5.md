@@ -5,6 +5,7 @@ Welcome to **Day 5** of your AI journey! Today is all about **functions**. Funct
 ---
 
 ## 🌟 Objectives
+
 - Learn how to define and call Python functions
 - Understand how to pass arguments and return values
 - Explore advanced topics like default values, keyword arguments, and variable-length arguments
@@ -29,11 +30,13 @@ jupyter notebook
 ---
 
 ## 🔍 What is a Function?
+
 Functions are containers for code that perform specific tasks. Once defined, a function can be called multiple times, allowing code reuse and better structure. This is especially useful in AI to organize tasks like loading data, preprocessing it, or evaluating models. Instead of rewriting the same code, you just call the function where needed.
 
 ---
 
 ## ✏️ Defining a Simple Function
+
 Use the `def` keyword to define a function. Then call the function using its name.
 
 ```python
@@ -48,6 +51,7 @@ This simple function prints a greeting message. Functions without parameters are
 ---
 
 ## 🧰 Parameters and Arguments
+
 Functions can take parameters (placeholders) so you can pass data when calling them.
 
 ```python
@@ -62,6 +66,7 @@ Here, `name` is a parameter. You pass "Waqas" as an argument during the function
 ---
 
 ## ➡️ Returning Values
+
 You can use the `return` keyword to send back a result from a function.
 
 ```python
@@ -74,9 +79,11 @@ Returning values is key when building pipelines in AI — you pass data from one
 ---
 
 ## 🧩 Types of Function Arguments
+
 Understanding argument types is crucial to writing flexible and reusable code.
 
 ### 1. Default Arguments
+
 These are parameters that assume a default value if no value is provided by the caller.
 
 ```python
@@ -90,6 +97,7 @@ greet("Ayesha")   # Output: Hi Ayesha
 Default arguments simplify your code by making parameters optional.
 
 ### 2. Keyword Arguments
+
 Instead of relying on the order of arguments, you can specify the parameter names explicitly.
 
 ```python
@@ -103,6 +111,7 @@ profile(age=30, name="Ali")
 This improves clarity and allows arguments to be passed in any order.
 
 ### 3. Variable-Length Arguments (*args)
+
 When you're unsure how many values will be passed, use `*args` to collect them into a tuple.
 
 ```python
@@ -118,16 +127,19 @@ sum_all()              # Output: Total: 0
 ```
 
 🔎 **Explanation**:
+
 - `*numbers` collects all values into a tuple
 - You can iterate through it like a list
 - Useful when building utility functions that accept dynamic inputs
 
 💡 **Real-world analogy**:
+
 Think of `*args` like a shopping basket. You don’t know how many items someone will add, so you design it to hold any number of items.
 
 ---
 
 ## 🌍 Real-World Use Case: Normalize Data
+
 Before feeding data to a model, we usually normalize it.
 ```python
 def normalize(data):
@@ -143,6 +155,7 @@ This function scales values to a 0–1 range, a common preprocessing step in ML 
 ## 🔹 Practice Exercises
 
 ### 1. Prime Checker
+
 Create a function to check whether a number is prime.
 ```python
 def is_prime(n):
@@ -150,9 +163,11 @@ def is_prime(n):
 ```
 
 ### 2. Factorial Function
+
 Write a function that returns the factorial of a number using a loop.
 
 ### 3. Vowel Counter
+
 Write a function that counts how many vowels are in a given string.
 
 These are great mini-problems to sharpen your function skills.
@@ -160,11 +175,13 @@ These are great mini-problems to sharpen your function skills.
 ---
 
 ## 📘 Related Notebook
+
 👉 [Open day5_functions.ipynb](../Day5_Functions/day5_functions.ipynb) to explore, run, and modify all the examples shown above interactively.
 
 ---
 
 ## 🧠 Summary
+
 - Functions are essential tools to break down tasks and organize code
 - They make large AI projects manageable and readable
 - You can pass different types of arguments to customize behavior
