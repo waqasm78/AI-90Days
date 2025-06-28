@@ -149,6 +149,9 @@ def normalize(data):
     min_val = min(data)
     max_val = max(data)
     return [(x - min_val) / (max_val - min_val) for x in data]
+
+scores = [20, 50, 80, 100]
+print("Normalized Scores:", normalize(scores))
 ```
 
 This function scales values to a 0–1 range, a common preprocessing step in ML and neural networks.
