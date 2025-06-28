@@ -255,7 +255,7 @@ This converts both lists to sets and finds their intersection.
 
 ## 📓 Related Notebook
 
-👉 [Open day3\_collections.ipynb](../Day3_Collections/day3_collections.ipynb) to see all examples with code and try them live in Jupyter.
+👉 Open [day3\_collections.ipynb](../Day3_Collections/day3_collections.ipynb) to see all examples with code and try them live in Jupyter.
 
 ---
 
