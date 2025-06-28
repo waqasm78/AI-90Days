@@ -212,7 +212,7 @@ These are great mini-problems to sharpen your function skills.
 
 ## 📘 Related Notebook
 
-👉 [Open day5_functions.ipynb](../Day5_Functions/day5_functions.ipynb) to explore, run, and modify all the examples shown above interactively.
+👉 Open [day5_functions.ipynb](../Day5_Functions/day5_functions.ipynb) to explore, run, and modify all the examples shown above interactively.
 
 ---
 
