@@ -22,6 +22,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 3  | Collections: Lists, Tuples, Sets & Dictionaries     | [View Notes](./Day3.md) |
 | Day 4  | Control Flow: If, For, While, and Logic             | [View Notes](./Day4.md) |
 | Day 5  | Functions                                           | [View Notes](./Day5.md) |
+| Day 6  | Modules and Packages                                | [View Notes](./Day6.md) |
 | ...    | ...                                                 | ...                     |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*           |
 

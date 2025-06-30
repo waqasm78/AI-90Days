@@ -43,6 +43,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 3   | Collections: Lists, Tuples, Sets & Dictionaries | [Day 3](docs/Day3.md) |
 | 4   | Control Flow: If, For, While, and Logic         | [Day 4](docs/Day4.md) |
 | 5   | Functions                                       | [Day 5](docs/Day5.md) |
+| 6   | Modules and Packages                            | [Day 6](docs/Day6.md) |
 | ... | ...                                             | ...                   |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon           |
 

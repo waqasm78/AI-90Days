@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 jupyter_runtime/
+.vs/
+__pycache__/
