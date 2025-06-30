@@ -195,24 +195,129 @@ print(greetings.say_hello("Ali"))
 
 ---
 
-## 💻 Practice Exercises
-
-1. Create `string_utils.py`:
-
-```python
-def reverse_string(s):
-    return s[::-1]
-```
-
-2. Create a package `ai_helpers`:
-    - `math_ops.py` with normalization function
-    - `text_ops.py` to count words, clean text, etc.
-
-3. Use built-in `datetime` to display formatted timestamps.
+## 🧪 Practice Exercises (with code and explanation)
 
 ---
 
-## 📘 Related Examples
+### 📘 Exercise 1: Create a Utility Module – `string_utils.py`
+
+**Goal:** Learn how to create a basic module and import it.
+
+#### 🔧 Step-by-step:
+
+1. Inside `Day6_Modules` folder, create a file called `string_utils.py`.
+
+2. Add the following code:
+
+```python
+# string_utils.py
+
+def reverse_string(s):
+    """Returns the reverse of the input string."""
+    return s[::-1]
+
+def count_vowels(s):
+    """Returns the number of vowels in a string."""
+    return sum(1 for char in s.lower() if char in 'aeiou')
+```
+
+3. Now, create a new file called `test_utils.py` or use a new Jupyter notebook cell:
+
+```python
+import string_utils
+
+print(string_utils.reverse_string("Hello AI"))      # Output: IA olleH
+print(string_utils.count_vowels("Artificial"))      # Output: 5
+```
+
+#### 🧠 What you learned:
+
+You just created a reusable utility module for string functions.
+You imported it and used the functions from another file or notebook.
+
+---
+
+### 📘 Exercise 2: Create a Simple Package – ai_helpers
+
+**Goal:** Understand how to create a package with multiple modules and use it.
+
+#### 🔧 Step-by-step:
+
+1. Create a folder called ai_helpers inside `Day6_Modules`.
+2. Inside it, create an empty `__init__.py` file.
+3. Create a new file: `math_ops.py`
+
+```python
+# ai_helpers/math_ops.py
+
+def normalize(data):
+    """Normalize a list of numbers to 0–1 range."""
+    min_val = min(data)
+    max_val = max(data)
+    return [(x - min_val) / (max_val - min_val) for x in data]
+```
+
+4. Create another file: `text_ops.py` in the `Day6_Modules` folder.
+
+```python
+# ai_helpers/text_ops.py
+
+def clean_text(text):
+    """Removes punctuation and converts to lowercase."""
+    import string
+    return text.translate(str.maketrans('', '', string.punctuation)).lower()
+
+def word_count(text):
+    """Counts words in a string."""
+    return len(text.split())
+```
+
+5. Create a new file `test_ops.py` inside `Day6_Modules` folder and the following code.
+
+```python
+from ai_helpers import math_ops, text_ops
+
+data = [5, 10, 15]
+print("Normalized:", math_ops.normalize(data))  # [0.0, 0.5, 1.0]
+
+sentence = "Hello, AI World!"
+print("Cleaned:", text_ops.clean_text(sentence))  # hello ai world
+print("Word Count:", text_ops.word_count(sentence))  # 3
+```
+
+#### 🧠 What you learned:
+
+You built a real Python package ai_helpers with two modules and imported them properly using relative paths.
+
+---
+
+###📘 Exercise 3: Use Built-in Module – datetime
+
+####🔧 Step-by-step:
+
+1. Open a new `test_datetime.py` file inside Day6_Modules.
+2. Add the following code:
+
+```python
+import datetime
+
+# Print the current date and time
+now = datetime.datetime.now()
+print("Current Timestamp:", now)
+
+# Format the date nicely
+formatted = now.strftime("%A, %d %B %Y, %I:%M %p")
+print("Formatted:", formatted)
+```
+
+####🧠 What you learned:
+
+Built-in Python modules like datetime save you time.
+They come with many helpful functions ready to use without installation.
+
+---
+
+## 📘 Related Working Files
 
 👉 Open [day6_modules.ipynb](../Day6_Modules/day6_modules.ipynb) to interactively test module/package creation.
 

@@ -15,7 +15,3 @@ print(random.randint(1, 10))
 
 import os
 print(os.getcwd())
-
-import string_utils
-
-print(string_utils.reverse_string("abcdefgf"))
