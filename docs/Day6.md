@@ -291,9 +291,9 @@ You built a real Python package ai_helpers with two modules and imported them pr
 
 ---
 
-###📘 Exercise 3: Use Built-in Module – datetime
+### 📘 Exercise 3: Use Built-in Module – datetime
 
-####🔧 Step-by-step:
+#### 🔧 Step-by-step:
 
 1. Open a new `test_datetime.py` file inside Day6_Modules.
 2. Add the following code:
@@ -310,7 +310,7 @@ formatted = now.strftime("%A, %d %B %Y, %I:%M %p")
 print("Formatted:", formatted)
 ```
 
-####🧠 What you learned:
+#### 🧠 What you learned:
 
 Built-in Python modules like datetime save you time.
 They come with many helpful functions ready to use without installation.
