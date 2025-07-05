@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day8_FileHandling", "Day8_FileHandling\Day8_FileHandling.pyproj", "{C09846FA-66CD-489D-88BB-80B49D289942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09846FA-66CD-489D-88BB-80B49D289942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09846FA-66CD-489D-88BB-80B49D289942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2FD51A-C745-4D26-80F7-36443A169A33}
+	EndGlobalSection
+EndGlobal

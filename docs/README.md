@@ -15,17 +15,18 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 
 ## 📅 Daily Breakdown
 
-| Day    | Topic                                               | Notes                   |
-| ------ | ----------------------------------------------------| ----------------------- |
-| Day 1  | Environment Setup & First Jupyter Notebook          | [View Notes](./Day1.md) |
-| Day 2  | Python Basics                                       | [View Notes](./Day2.md) |
-| Day 3  | Collections: Lists, Tuples, Sets & Dictionaries     | [View Notes](./Day3.md) |
-| Day 4  | Control Flow: If, For, While, and Logic             | [View Notes](./Day4.md) |
-| Day 5  | Functions                                           | [View Notes](./Day5.md) |
-| Day 6  | Modules and Packages                                | [View Notes](./Day6.md) |
-| Day 7  | Exception Handling                                  | [View Notes](./Day7.md) |
-| ...    | ...                                                 | ...                     |
-| Day 90 | Final Capstone AI Project                           | *Coming soon*           |
+| Day    | Topic                                               | Notes                               |
+| ------ | ----------------------------------------------------| ----------------------------------- |
+| Day 1  | Environment Setup & First Jupyter Notebook          | [View Notes](./DaDay1_Setupy1.md)   |
+| Day 2  | Python Basics                                       | [View Notes](./Day2_PythonBasics.md)|
+| Day 3  | Collections: Lists, Tuples, Sets & Dictionaries     | [View Notes](./Day3_Collections.md) |
+| Day 4  | Control Flow: If, For, While, and Logic             | [View Notes](./Day4_ControlFlow.md) |
+| Day 5  | Functions                                           | [View Notes](./Day5_Functions.md)   |
+| Day 6  | Modules and Packages                                | [View Notes](./Day6_Modules.md)     |
+| Day 7  | Exception Handling                                  | [View Notes](./Day7_Exceptions.md)  |
+| Day 8  | File Handling                                       | [View Notes](.Day8_FileHandlingmd)  |
+| ...    | ...                                                 | ...                                 |
+| Day 90 | Final Capstone AI Project                           | *Coming soon*                       |
 
 ---
 
