@@ -331,5 +331,5 @@ They come with many helpful functions ready to use without installation.
 - Use packages to group related functionality
 - Jupyter or Visual Studio both work — choose based on comfort
 
-📅 On **Day 7**, we will explore **Object-Oriented Programming (OOP)** in Python!
+📅 On **Day 7**, we will explore **Exception Handling** in Python!
 
