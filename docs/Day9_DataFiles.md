@@ -184,7 +184,7 @@ with open("settings.json", "w") as file:
 
 ## 🔗 Related Files
 
-🐍 [Day9_DataFiles/csv_json_examples.py](../Day9_DataFiles/csv_json_examples.py) - All examples in one script
+🐍 [Day9_DataFiles/csv_json_examples.py](../Day9_DataFiles/Day9_DataFiles/csv_json_examples.py) - All examples in one script
 
 ---
 
