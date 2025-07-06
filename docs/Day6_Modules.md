@@ -319,7 +319,7 @@ They come with many helpful functions ready to use without installation.
 
 ## 📘 Related Working Files
 
-👉 Open [day6_modules.ipynb](../Day6_Modules/day6_modules.ipynb) to interactively test module/package creation.
+👉 Open [Day6_Modules](../Day6_Modules/Day6_Modules/main.py) to interactively test module/package creation.
 
 ---
 
