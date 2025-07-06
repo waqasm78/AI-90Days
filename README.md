@@ -46,7 +46,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 6   | Modules and Packages                            | [Day 6](docs/Day6_Modules.md)      |
 | 7   | Exception Handling                              | [Day 7](docs/Day7_Exceptions.md)   |
 | 8   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md) |
-| 9   | Working with CSV and JSON Files                 | [Day 8](docs/Day9_DataFiles.md)    |
+| 9   | Working with CSV and JSON Files                 | [Day 9](docs/Day9_DataFiles.md)    |
 | ... | ...                                             | ...                                |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                        |
 
