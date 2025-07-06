@@ -228,7 +228,7 @@ with open("data_updated.txt", "w") as file:
 
 ## 🔗 Related Files
 
-🐍 [Day8_FileHandling.py](../Day8_FileHandling/Day8_FileHandling.py) – All examples in one script
+🐍 [Day8_FileHandling.py](../Day8_FileHandling/Day8_FileHandling/Day8_FileHandling.py) – All examples in one script
 
 
 ## 🧠 Summary
