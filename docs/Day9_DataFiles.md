@@ -200,6 +200,6 @@ with open("settings.json", "w") as file:
 | indent=4       | Formats JSON for better readability    |
 
 
-✅ You can now work with structured data using CSV and JSON — a crucial skill for AI, APIs, and real-world datasets!
+✅ You can now work with structured data using CSV and JSON - a crucial skill for AI, APIs, and real-world datasets!
 
-📅 Next: Day 10 - Numpy for AI — learn to work with powerful arrays and numerical data!
+📅 **Next: Day 10 - Numpy for AI** - learn to work with powerful arrays and numerical data!
