@@ -24,7 +24,8 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 5  | Functions                                           | [View Notes](./Day5_Functions.md)   |
 | Day 6  | Modules and Packages                                | [View Notes](./Day6_Modules.md)     |
 | Day 7  | Exception Handling                                  | [View Notes](./Day7_Exceptions.md)  |
-| Day 8  | File Handling                                       | [View Notes](.Day8_FileHandlingmd)  |
+| Day 8  | File Handling                                       | [View Notes](.Day8_FileHandling.md) |
+| Day 9  | Working with CSV and JSON Files                     | [View Notes](.Day9_DataFiles.md)    |
 | ...    | ...                                                 | ...                                 |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*                       |
 
@@ -32,7 +33,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 
 ## 🔁 How to Use This Folder
 
-* Navigate to each day’s `.md` file to read the full notes
+* Navigate to each day's `.md` file to read the full notes
 * Run the matching `.ipynb` notebook inside each `DayX_...` folder
 * Activate your environment and run Jupyter using:
 

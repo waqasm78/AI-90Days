@@ -226,10 +226,9 @@ with open("data_updated.txt", "w") as file:
 
 ---
 
-## 🔗 Notebook and Script Links
+## 🔗 Related Files
 
-    📝 Day8_FileHandling/day8_files.ipynb – Try each example interactively
-    🐍 Day8_FileHandling/file_handling_basics.py – All examples in one script
+🐍 [Day8_FileHandling.py](../Day8_FileHandling/Day8_FileHandling.py) – All examples in one script
 
 
 ## 🧠 Summary

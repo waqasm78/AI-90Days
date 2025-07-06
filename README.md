@@ -45,7 +45,8 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 5   | Functions                                       | [Day 5](docs/Day5_Functions.md)    |
 | 6   | Modules and Packages                            | [Day 6](docs/Day6_Modules.md)      |
 | 7   | Exception Handling                              | [Day 7](docs/Day7_Exceptions.md)   |
-| 7   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md) |
+| 8   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md) |
+| 9   | Working with CSV and JSON Files                 | [Day 8](docs/Day9_DataFiles.md)    |
 | ... | ...                                             | ...                                |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                        |
 
@@ -77,7 +78,7 @@ By the end of 90 days, you'll:
 
 ## 📬 Questions / Contributions
 
-This journey is open-source. If you’re following along or want to contribute fixes or translations, feel free to fork the repo and send pull requests!
+This journey is open-source. If you're following along or want to contribute fixes or translations, feel free to fork the repo and send pull requests!
 
 Happy Learning! 🚀
 
