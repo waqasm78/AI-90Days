@@ -258,7 +258,7 @@ AI-90Days/
 
 ### 🔗 Related Files
 
-- [Day7_Exceptions/day7_exceptions.py](../Day7_Exceptions/Day7_Exceptions/day7_exceptions.py) – Code examples for Visual Studio 2022  
+- [Day7_Exceptions/day7_exceptions.py](../Day7_Exceptions/Day7_Exceptions/Day7_Exceptions.py) – Code examples for Visual Studio 2022  
 - [Day7_Exceptions/custom_errors.py](../Day7_Exceptions/Day7_Exceptions/custom_errors.py) – Custom error class example
 
 ---
