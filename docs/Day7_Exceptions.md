@@ -1,4 +1,4 @@
-# 📅 Day 7 – Exception Handling in Python
+# 📅 Day 7 - Exception Handling in Python
 
 Welcome to **Day 7** of your AI learning journey! Today, you'll learn how to **handle errors** gracefully in your Python programs using exception handling. This is a critical skill in AI and software development because real-world data and systems are messy — things break often, and your code must be ready for it!
 
@@ -258,8 +258,8 @@ AI-90Days/
 
 ### 🔗 Related Files
 
-- [Day7_Exceptions/day7_exceptions.py](../Day7_Exceptions/Day7_Exceptions/Day7_Exceptions.py) – Code examples for Visual Studio 2022  
-- [Day7_Exceptions/custom_errors.py](../Day7_Exceptions/Day7_Exceptions/custom_errors.py) – Custom error class example
+- [Day7_Exceptions/day7_exceptions.py](../Day7_Exceptions/Day7_Exceptions/Day7_Exceptions.py) - Code examples for Visual Studio 2022  
+- [Day7_Exceptions/custom_errors.py](../Day7_Exceptions/Day7_Exceptions/custom_errors.py) - Custom error class example
 
 ---
 

@@ -47,6 +47,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 7   | Exception Handling                              | [Day 7](docs/Day7_Exceptions.md)   |
 | 8   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md) |
 | 9   | Working with CSV and JSON Files                 | [Day 9](docs/Day9_DataFiles.md)    |
+| 10  | NumPy for AI                                    | [Day 10](docs/Day10_NumPyBasics.md)|
 | ... | ...                                             | ...                                |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                        |
 
