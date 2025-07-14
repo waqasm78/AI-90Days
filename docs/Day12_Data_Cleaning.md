@@ -201,8 +201,8 @@ df["Score_Norm"] = (df["Score"] - df["Score"].min()) / (df["Score"].max() - df["
 
 ## 🔗 Related Files
 
-* [Day12\_Data\_Cleaning/day12\_data\_cleaning.py](../Day12_Data_Cleaning/day12_data_cleaning.py) - All examples in one script
-* [students.csv](../Day11_Pandas_Basics/students.csv) - Sample data file
+* [Day12\_Data\_Cleaning/day12\_data\_cleaning.py](../Day12_Data_Cleaning/Day12_Data_Cleaning/day12_data_cleaning.py) - All examples in one script
+* [students.csv](../Day12_Data_Cleaning/Day12_Data_Cleaning/students.csv) - Sample data file
 
 ---
 

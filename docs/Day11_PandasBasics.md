@@ -200,8 +200,8 @@ print(grouped)
 
 ## 🔗 Related Files
 
-* [Day11\_PandasBasics/Day11\_PandasbBasics.py](../Day11_PandasBasics/Day11_PandasBasics.py) - All examples in one script
-* [students.csv](../Day11_Pandas_Basics/students.csv) - Sample data file
+* [Day11\_PandasBasics/Day11\_PandasbBasics.py](../Day11_PandasBasics/Day11_PandasBasics/Day11_PandasBasics.py) - All examples in one script
+* [students.csv](../Day11_Pandas_Basics/Day11_PandasBasics/students.csv) - Sample data file
 
 ---
 

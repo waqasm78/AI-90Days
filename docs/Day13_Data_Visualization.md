@@ -537,8 +537,8 @@ plt.show()
 
 ## 🔗 Related Files
 
-* [Day13_Data_Visualization/Day13_Data_Visualization.py](../Day13_Data_Visualization/Day13_Data_Visualization.py) - All examples in one script
-
+* [Day13_Data_Visualization/Day13_Data_Visualization.py](../Day13_Data_Visualization/Day13_Data_Visualization/Day13_Data_Visualization.py) - All code examples
+* [students.csv](../Day13_Data_Visualization/Day13_Data_Visualization/students.csv) - Sample dataset
 ---
 
 ## 🧠 Summary
