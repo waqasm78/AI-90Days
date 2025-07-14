@@ -26,7 +26,8 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 7  | Exception Handling                                  | [View Notes](./Day7_Exceptions.md)      |
 | Day 8  | File Handling                                       | [View Notes](./Day8_FileHandling.md)    |
 | Day 9  | Working with CSV and JSON Files                     | [View Notes](./Day9_DataFiles.md)       |
-| Day 10 | Working with CSV and JSON Files                     | [View Notes](./Day10_NumPyBasics.md.md) |
+| Day 10 | NumPy for AI                                        | [View Notes](./Day10_NumPyBasics.md)    |
+| Day 11 | Pandas for Data Analysis                            | [View Notes](./Day11_PandasBasics.md)   |
 | ...    | ...                                                 | ...                                     |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*                           |
 

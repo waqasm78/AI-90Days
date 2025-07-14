@@ -36,20 +36,21 @@ AI-90Days/
 
 Each link below takes you to the detailed tutorial and instructions for that day.
 
-| Day | Topic                                           | Link                               |
-| --- | ----------------------------------------------- | ---------------------------------- |
-| 1   | Tools Setup + Git + Jupyter Intro               | [Day 1](docs/Day1_Setup.md)        |
-| 2   | Python Basics                                   | [Day 2](docs/Day2_PythonBasics.md) |
-| 3   | Collections: Lists, Tuples, Sets & Dictionaries | [Day 3](docs/Day3_Collections.md)  |
-| 4   | Control Flow: If, For, While, and Logic         | [Day 4](docs/Day4_ControlFlow.md)  |
-| 5   | Functions                                       | [Day 5](docs/Day5_Functions.md)    |
-| 6   | Modules and Packages                            | [Day 6](docs/Day6_Modules.md)      |
-| 7   | Exception Handling                              | [Day 7](docs/Day7_Exceptions.md)   |
-| 8   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md) |
-| 9   | Working with CSV and JSON Files                 | [Day 9](docs/Day9_DataFiles.md)    |
-| 10  | NumPy for AI                                    | [Day 10](docs/Day10_NumPyBasics.md)|
-| ... | ...                                             | ...                                |
-| 90  | Final Project & Portfolio Deployment            | Coming Soon                        |
+| Day | Topic                                           | Link                                  |
+| --- | ----------------------------------------------- | ------------------------------------- |
+| 1   | Tools Setup + Git + Jupyter Intro               | [Day 1](docs/Day1_Setup.md)           |
+| 2   | Python Basics                                   | [Day 2](docs/Day2_PythonBasics.md)    |
+| 3   | Collections: Lists, Tuples, Sets & Dictionaries | [Day 3](docs/Day3_Collections.md)     |
+| 4   | Control Flow: If, For, While, and Logic         | [Day 4](docs/Day4_ControlFlow.md)     |
+| 5   | Functions                                       | [Day 5](docs/Day5_Functions.md)       |
+| 6   | Modules and Packages                            | [Day 6](docs/Day6_Modules.md)         |
+| 7   | Exception Handling                              | [Day 7](docs/Day7_Exceptions.md)      |
+| 8   | File Handling                                   | [Day 8](docs/Day8_FileHandling.md)    |
+| 9   | Working with CSV and JSON Files                 | [Day 9](docs/Day9_DataFiles.md)       |
+| 10  | NumPy for AI                                    | [Day 10](docs/Day10_NumPyBasics.md)   |
+| 11  | NumPy for AIPandas for Data Analysis            | [Day 11](docs/Day11_PandasBasics.md)  |
+| ... | ...                                             | ...                                   |
+| 90  | Final Project & Portfolio Deployment            | Coming Soon                           |
 
 > ✅ Links will be updated here each day as you progress.
 
