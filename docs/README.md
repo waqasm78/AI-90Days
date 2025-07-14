@@ -30,6 +30,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 11 | Pandas for Data Analysis                            | [View Notes](./Day11_PandasBasics.md)          |
 | Day 12 | Data Cleaning and Feature Engineering               | [View Notes](./Day12_Data_Cleaning.md)         |
 | Day 13 | Data Visualization with Matplotlib & Seaborn        | [View Notes](./Day13_Data_Visualization.md)    |
+| Day 14 | Exploratory Data Analysis (EDA)                     | [View Notes](./Day14_EDA.md)                   |
 | ...    | ...                                                 | ...                                            |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*                                  |
 

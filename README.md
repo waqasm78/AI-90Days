@@ -51,6 +51,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 11  | Pandas for Data Analysis                        | [Day 11](docs/Day11_PandasBasics.md)          |
 | 12  | Data Cleaning and Feature Engineering           | [Day 12](docs/Day12_Data_Cleaning.md)         |
 | 13  | Data Visualization with Matplotlib & Seaborn    | [Day 13](docs/Day13_Data_Visualization.md)    |
+| 14  | Exploratory Data Analysis (EDA)                 | [Day 14](docs/Day14_EDA.md)                   |
 | ... | ...                                             | ...                                           |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                                   |
 

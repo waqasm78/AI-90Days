@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day14_EDA", "Day14_EDA\Day14_EDA.pyproj", "{847A78F9-556D-4174-980B-CC3A1E9393DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847A78F9-556D-4174-980B-CC3A1E9393DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847A78F9-556D-4174-980B-CC3A1E9393DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D4387E-EE83-4728-AE38-AC3F85CB3399}
+	EndGlobalSection
+EndGlobal
