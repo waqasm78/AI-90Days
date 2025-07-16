@@ -72,7 +72,9 @@ Let's start with **Linear Regression**, a simple algorithm used to **predict num
 
 ### 1️⃣ Import Libraries and Prepare Data
 
-Before building a model, we need to load libraries, and define our input (`X`) and output (`y`).
+Before we build a machine learning pipeline, we need some data to work with. For this example, we're going to simulate a small dataset representing students' study habits and performance.
+
+we need to load libraries, and define our input (`X`) and output (`y`).
 
 ```python
 import pandas as pd
