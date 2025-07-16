@@ -457,8 +457,8 @@ print("Predicted Results for New Data:", predictions)
 
 ## 🔗 Related Files
 
-- [Day16_DataPipeline.py](../Day16_DataPipeline/Day16_DataPipeline.py) - All examples predicting continuous numeric values
-- [Day16_DataPipeline1.py](../Day16_DataPipeline/Day16_DataPipeline1.py) - Example predicting categorical values like **Pass** or **Fail**
+- [Day16_DataPipeline.py](../Day16_DataPipeline/Day16_DataPipeline/Day16_DataPipeline.py) - All examples predicting continuous numeric values
+- [Day16_DataPipeline1.py](../Day16_DataPipeline/Day16_DataPipeline/Day16_DataPipeline1.py) - Example predicting categorical values like **Pass** or **Fail**
 
 ---
 
