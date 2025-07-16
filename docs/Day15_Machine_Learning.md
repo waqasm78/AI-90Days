@@ -307,7 +307,7 @@ print("Predicted Score for 9.5 hours:", predicted)
 
 ---
 
-## ✅ Build Your First ML Model
+## 🎁 Bonus: Build Your First ML Model
 
 Let's build our first ML model using complex data. We'll use the Iris Dataset to classify flowers based on their features.
 
