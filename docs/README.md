@@ -31,6 +31,8 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 12 | Data Cleaning and Feature Engineering               | [View Notes](./Day12_Data_Cleaning.md)         |
 | Day 13 | Data Visualization with Matplotlib & Seaborn        | [View Notes](./Day13_Data_Visualization.md)    |
 | Day 14 | Exploratory Data Analysis (EDA)                     | [View Notes](./Day14_EDA.md)                   |
+| Day 15 | Machine Learning with Scikit-learn                  | [View Notes](./Day15_Machine_Learning.md)      |
+| Day 16 | Data Preprocessing and Pipelines                    | [View Notes](./Day16_DataPipeline.md)          |
 | ...    | ...                                                 | ...                                            |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*                                  |
 

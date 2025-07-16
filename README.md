@@ -52,6 +52,8 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 12  | Data Cleaning and Feature Engineering           | [Day 12](docs/Day12_Data_Cleaning.md)         |
 | 13  | Data Visualization with Matplotlib & Seaborn    | [Day 13](docs/Day13_Data_Visualization.md)    |
 | 14  | Exploratory Data Analysis (EDA)                 | [Day 14](docs/Day14_EDA.md)                   |
+| 15  | Machine Learning with Scikit-learn              | [Day 15](docs/Day15_Machine_Learning.md)      |
+| 16  | Data Preprocessing and Pipelines                | [Day 16](docs/Day16_DataPipeline.md)          |
 | ... | ...                                             | ...                                           |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                                   |
 
