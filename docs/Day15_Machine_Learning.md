@@ -54,6 +54,8 @@ Today, we'll focus on **Supervised Learning**, the most beginner-friendly and wi
 - Tools to split data, evaluate performance, and tune models
 - Easy integration with Pandas and NumPy
 
+---
+
 ### 🔧 Setup
 
 Make sure you have the required libraries installed:
@@ -61,6 +63,8 @@ Make sure you have the required libraries installed:
 ```python
 pip install scikit-learn pandas
 ```
+
+---
 
 ## 📈 Your First ML Model: Linear Regression
 

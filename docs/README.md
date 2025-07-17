@@ -33,6 +33,7 @@ Ideal for beginners, software developers, and anyone serious about breaking into
 | Day 14 | Exploratory Data Analysis (EDA)                     | [View Notes](./Day14_EDA.md)                   |
 | Day 15 | Machine Learning with Scikit-learn                  | [View Notes](./Day15_Machine_Learning.md)      |
 | Day 16 | Data Preprocessing and Pipelines                    | [View Notes](./Day16_DataPipeline.md)          |
+| Day 17 | Linear Regression                                   | [View Notes](./Day17_LinearRegression.md)      |
 | ...    | ...                                                 | ...                                            |
 | Day 90 | Final Capstone AI Project                           | *Coming soon*                                  |
 

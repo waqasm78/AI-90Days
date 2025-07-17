@@ -42,6 +42,16 @@ A **pipeline** is a tool in **Scikit-learn** that chains multiple steps (like pr
 
 ---
 
+### 🔧 Setup
+
+Make sure you have the required libraries installed:
+
+```python
+pip install scikit-learn pandas
+```
+
+---
+
 ## 1️⃣ Import Required Libraries
 
 Before we start building a machine learning pipeline, we need to import all the essential libraries that will help us with data preprocessing, modeling, and pipeline creation.

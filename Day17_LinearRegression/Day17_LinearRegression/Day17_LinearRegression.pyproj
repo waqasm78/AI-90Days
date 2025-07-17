@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a16951e8-b7ef-4c5d-b762-4ce960b88789</ProjectGuid>
+    <ProjectGuid>d5cb9ed7-122b-4cef-82b7-64009be1f6e9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day16_DataPipeline.py</StartupFile>
+    <StartupFile>PracticeExercise3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Day16_DataPipeline</Name>
-    <RootNamespace>Day16_DataPipeline</RootNamespace>
+    <Name>Day17_LinearRegression</Name>
+    <RootNamespace>Day17_LinearRegression</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,9 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Day16_DataPipeline.py" />
-    <Compile Include="Day16_DataPipeline1.py" />
-    <Compile Include="Day16_DataPipeline2.py" />
+    <Compile Include="Day17_LinearRegression.py" />
+    <Compile Include="PracticeExercise1.py" />
+    <Compile Include="PracticeExercise2.py" />
+    <Compile Include="PracticeExercise3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
