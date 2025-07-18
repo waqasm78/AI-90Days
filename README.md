@@ -55,6 +55,7 @@ Each link below takes you to the detailed tutorial and instructions for that day
 | 15  | Machine Learning with Scikit-learn              | [Day 15](docs/Day15_Machine_Learning.md)      |
 | 16  | Data Preprocessing and Pipelines                | [Day 16](docs/Day16_DataPipeline.md)          |
 | 17  | Linear Regression                               | [Day 17](docs/Day17_LinearRegression.md)      |
+| 18  | Logistic Regression & Classification Metrics    | [Day 18](docs/Day18_LogisticRegression.md)    |
 | ... | ...                                             | ...                                           |
 | 90  | Final Project & Portfolio Deployment            | Coming Soon                                   |
 

@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>d5cb9ed7-122b-4cef-82b7-64009be1f6e9</ProjectGuid>
+    <ProjectGuid>f317f47e-8140-476a-84f1-e586823b65b4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day17_LinearRegression.py</StartupFile>
+    <StartupFile>Extended_Titanic_Example.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Day17_LinearRegression</Name>
-    <RootNamespace>Day17_LinearRegression</RootNamespace>
+    <Name>Day18_LogisticRegression</Name>
+    <RootNamespace>Day18_LogisticRegression</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,10 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Day17_LinearRegression.py" />
-    <Compile Include="PracticeExercise1.py" />
-    <Compile Include="PracticeExercise2.py" />
-    <Compile Include="PracticeExercise3.py" />
+    <Compile Include="Day18_LogisticRegression.py" />
+    <Compile Include="Extended_Titanic_Example.py" />
+    <Compile Include="Titanic_Example.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

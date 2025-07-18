@@ -270,7 +270,7 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 print("Mean Squared Error:", mse)
-print("R-squared (R²):", r2)
+print("R-squared (R^2):", r2)
 ```
 
 **Explanation:**
