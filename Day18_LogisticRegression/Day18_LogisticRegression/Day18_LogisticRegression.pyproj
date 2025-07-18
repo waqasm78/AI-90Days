@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f317f47e-8140-476a-84f1-e586823b65b4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Extended_Titanic_Example.py</StartupFile>
+    <StartupFile>Day18_LogisticRegression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
