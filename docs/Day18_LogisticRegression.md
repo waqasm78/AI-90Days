@@ -369,6 +369,7 @@ As you adjust your **threshold**, your **true positive rate** (caught real threa
 By plotting all these changes, you draw your **ROC Curve**.
 
 A better system will give a **high AUC** (close to 1), showing it's smart at separating real threats from false alarms.
+
 ---
 
 #### 📌 Key Takeaways
